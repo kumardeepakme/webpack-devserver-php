@@ -7,11 +7,6 @@
   <title>Webpack 5, PHP & Live Reload</title>
 </head>
 <body>
-<?php
-  function displayInfo() {
-    return phpinfo();
-  }
-  displayInfo();
-?>
+<?php phpinfo(); ?>
 </body>
 </html>

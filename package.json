@@ -1,8 +1,4 @@
 {
-  "name": "webpack_devserver_php",
-  "version": "1.0.0",
-  "description": "Configure Webpack 5 devServer with a PHP website hosted on localhost.",
-  "main": "webpack.config.js",
   "private": true,
   "scripts": {
     "start": "webpack serve"
@@ -10,9 +6,9 @@
   "author": "Kumar Deepak <inbox@kumardeepak.xyz> (https://kumardeepak.xyz)",
   "license": "MIT",
   "devDependencies": {
-    "html-webpack-plugin": "^5.3.1",
-    "webpack": "^5.36.2",
-    "webpack-cli": "^4.7.0",
-    "webpack-dev-server": "^3.11.2"
+    "html-webpack-plugin": "^5.5.1",
+    "webpack": "^5.82.1",
+    "webpack-cli": "^5.1.1",
+    "webpack-dev-server": "^4.15.0"
   }
 }
